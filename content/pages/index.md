@@ -20,7 +20,9 @@ sections:
     image_alt: Geometric pattern
 seo:
   title: Real Human Website Traffic
-  description: The preview of the Vanilla theme
+  description: >-
+    Real Human Website Traffic services to get quality and targeted visitors and
+    start driving the traffic to your website quickly and affordably.
   extra:
     - name: 'og:type'
       value: website
