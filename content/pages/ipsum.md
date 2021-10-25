@@ -1,6 +1,5 @@
 ---
 title: Ipsum dolor sit amet
-subtitle: Aliquam lobortis faucibus blandit
 seo:
   title: Ipsum dolor sit amet
   description: Aliquam lobortis faucibus blandit
