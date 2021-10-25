@@ -2,9 +2,9 @@
 title: What Do You Mean By Design Pattern?
 subtitle: A cautionary tale about Magna etiam
 excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
+  Over time, programmers have encountered various problems in software
+  development. Many of these problems were independent of programming languages
+  and the like. 
 date: '2016-09-04'
 thumb_img_alt: Geometric pattern
 seo:
