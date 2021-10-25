@@ -52,7 +52,8 @@
                 "url": "https://dev.to/",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "<p>&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://targetedwebtraffic.business.site/\">Real Human Website Traffic</a>.&nbsp;order yours <a href=\"https://www.targetedwebtraffic.com/?p=56\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "domain": "https://githubzerz-staticz-715f1.netlify.app"
 }
