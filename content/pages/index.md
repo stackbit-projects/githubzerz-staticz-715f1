@@ -19,7 +19,7 @@ sections:
     type: section_content
     image_alt: Geometric pattern
 seo:
-  title: Stackbit Vanilla Theme
+  title: Real Human Website Traffic
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
