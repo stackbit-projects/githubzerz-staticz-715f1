@@ -31,7 +31,7 @@ sections:
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
     image: /images/download.png
-    image_alt: test
+    image_alt: UI
   - title: Recent Posts
     section_id: posts
     type: section_posts
