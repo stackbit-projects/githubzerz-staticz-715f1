@@ -21,28 +21,30 @@ seo:
       value: This is the UI kit page
 layout: page
 ---
-The word  inbound marketing  in here has  been translated as abduction marketing or  introverted marketing . The purpose of this marketing model, which has been developed in recent years, is to find customer needs and respond to them, and thus has a positive impact on brand growth.
+The word inbound marketing in here has  been translated as abduction marketing or  introverted marketing . The purpose of this marketing model, which has been developed in recent years, is to find customer needs and respond to them, and thus has a positive impact on brand growth.
 
 ## What is the place of content marketing in introverted marketing?
 
-Content marketing is a subset of inbound marketing. Content marketing is used as a powerful tool in inbound
-marketing.
+Content marketing is a subset of inbound marketing. Content marketing is used as a powerful tool in [inbound
+marketing](https://dev.to/jrgnuproject/what-do-you-mean-by-design-pattern-53k0).
 
 ### What is the difference between introverted and extroverted marketing?
 
-In introverted marketing, the business focuses on customer needs, and this type of marketing is customer-centric. While extroverted
-marketing is sales-oriented. In other words, in extroverted marketing, the approaches are such that they disturb the customer, while introverted marketing focuses on the customer's needs and problems.
+In introverted marketing, the business focuses on customer needs, and this type of marketing is customer-centric. While extroverted marketing is sales-oriented. In other words, in extroverted marketing, the approaches are such that they disturb the customer, while introverted marketing focuses on the customer's needs and problems.
 
 #### What is the difference between introverted marketing and content marketing?
 
-Introverted marketing means paying attention to and responding to customer needs. Content marketing focuses on producing,
-publishing and distributing valuable content to attract customers. In general, introverted and content marketing are not the same, but content
-marketing can be used to develop an introverted marketing strategy. Because hijacking marketing is not possible without the use of quality content.
+Introverted marketing means paying attention to and responding to customer needs. Content marketing
+focuses on producing, publishing and distributing valuable content to attract customers. In general, introverted and content marketing are not the same, but content marketing can be used to develop an introverted marketing strategy. Because hijacking marketing is not possible without the use of quality content.
 
 ##### What businesses need inbound marketing?
 
-Any business can use inbound marketing strategies. It is important to choose the most appropriate tools and methods for each brand.
+Any
+business can use inbound marketing strategies. It is important to choose
+the most appropriate tools and methods for each brand.
 
  
 
- 
+Source: [Real Human Website Traffic](https://www.targetedwebtraffic.com/)
+
+ ![](https://www.targetedwebtraffic.com/wp-content/uploads/2020/10/What-is-Internet-Branding-Definition-Strategies-1536x1084.jpg)
