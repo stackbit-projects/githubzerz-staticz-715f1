@@ -1,5 +1,5 @@
 ---
-title: Ipsum dolor sit amet
+title: Privacy Policy
 seo:
   title: Ipsum dolor sit amet
   description: Aliquam lobortis faucibus blandit
