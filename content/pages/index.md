@@ -6,7 +6,7 @@ sections:
     title: Real Human Website Visitors
     subtitle: |
       ###
-    image: images/avatar.png
+    image: /images/download.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
